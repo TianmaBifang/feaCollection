@@ -10,3 +10,7 @@
 三.js文章集合
 
 1.很好的js训练题库https://juejin.im/post/5d4005cee51d4561e721de67
+
+四.前端自动化
+
+1.如何实现自动化发版https://juejin.im/post/5d3fb5046fb9a06b0935f47d
