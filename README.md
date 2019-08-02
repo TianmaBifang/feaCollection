@@ -10,6 +10,7 @@
 三.js文章集合
 
 1.很好的js训练题库https://juejin.im/post/5d4005cee51d4561e721de67
+2.jsMDN https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
 
 四.前端自动化
 
