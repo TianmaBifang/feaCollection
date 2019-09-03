@@ -13,6 +13,8 @@
 
 2.jsMDN https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
 
+3.js学习网站：http://www.conardli.top/docs/
+
 四.前端自动化
 
 1.如何实现自动化发版https://juejin.im/post/5d3fb5046fb9a06b0935f47d
