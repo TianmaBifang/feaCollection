@@ -28,3 +28,9 @@
 七.面试
 
 1.https://github.com/Advanced-Interview-Question/front-end-interview#%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80
+
+2.https://juejin.im/post/5d51e16d6fb9a06ae17d6bbc
+
+3.https://juejin.im/post/5d5f44dae51d4561df7805b4
+
+4.https://juejin.im/post/5d0644976fb9a07ed064b0ca
