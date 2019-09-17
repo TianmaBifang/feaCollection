@@ -34,3 +34,13 @@
 3.https://juejin.im/post/5d5f44dae51d4561df7805b4
 
 4.https://juejin.im/post/5d0644976fb9a07ed064b0ca
+
+5.https://lucifer.ren/fe-interview/#/
+
+6.https://roadmap.sh/backend
+
+7.https://github.com/azl397985856/automate-everything
+
+8.https://github.com/lifesinger/blog/issues?q=label:blog
+
+9.https://github.com/azl397985856/fe-interview
